@@ -1,0 +1,23 @@
+.bride{
+    width:420px;
+    height:auto;
+}
+
+.groom {
+    width:420px;
+    height:auto;
+}
+
+.boxmodel {
+    padding:20px;
+    margin: auto;
+    margin-top: 95px;
+}
+.boxmodel h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+   
+}

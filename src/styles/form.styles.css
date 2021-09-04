@@ -1,0 +1,22 @@
+.forms{
+    display:flex;
+    justify-content: center;
+}
+
+input{
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+input[type="text"]::placeholder {  
+    font-size: 15px;;
+}
+
+input[type="email"]::placeholder {  
+    font-size: 15px;;
+}
+
+input[type="Number"]::placeholder {  
+    font-size: 15px;
+}

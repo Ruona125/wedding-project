@@ -1,0 +1,27 @@
+.details{
+  width:auto;
+  height: 750px;
+  background-image: url('../WeddingImage/beatriz-perez-moya-M2T1j-6Fn8w-unsplash.jpg');
+  background-size: cover;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+ 
+}
+.details h1{
+    font-size:100px;
+    color:aqua;
+} 
+
+.details h2{
+    font-size:60px;
+    color:aqua;
+}
+
+.details h3{
+    font-size:40px;
+    color:aqua;
+    
+}
